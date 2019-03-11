@@ -9,12 +9,6 @@ It allows:
 5) Administration view that allows show all users and change parameters of users.
 
 Used technologies:
--Spring Boot
--Maven
--Tomcat
--freemarker template
--Database migration Flyway
--MySQL
--Spring Security
--Hibernate
+-Spring Boot, Spring Security, Maven, Tomcat, freemarker template, Database migration Flyway, MySQL, Hibernate.
+
 
